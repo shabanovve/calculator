@@ -87,14 +87,7 @@ public class MainActivity extends Activity implements OnClickListener, Const {
 
 		}
 		
-//		if (buttonIndex == POINT) {
-//			contr.inputPoint();
-//		}
-//
-//		if (EQUAL == buttonIndex) {// user wait result
-//			double d = contr.endInput();
-//			display.setText(new Double(d).toString());
-//		}
+
 
 	}
 
